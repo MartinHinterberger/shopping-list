@@ -2,6 +2,7 @@ aepfel
 birnen
 brokkoli
 banane
+bier
 kuchen
 cookies
 kartoffel
