@@ -1,4 +1,3 @@
-ele
 weißwein
 rotwein
 mozartbrezn
@@ -12,4 +11,4 @@ kuchen
 cookies
 bratl
 kartoffel
-alo
+energy
